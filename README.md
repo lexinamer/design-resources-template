@@ -5,7 +5,7 @@
 
 *If you find this site helpful and create something, I'd love to [hear about it](mailto:lexinamer@gmail.com)!* 
 
-<img src="https://raw.githubusercontent.com/lexinamer/design-resources-template/main/assets/instruction-screenshots/erd.gif">
+![Alt Text](https://raw.githubusercontent.com/lexinamer/design-resources-template/main/assets/instruction-screenshots/edr.gif)
 
 ## What You Need
 Setting up a site does require editing code but screenshots and step-by-step instructions are included to make it easier to set  up. The beauty of this format is that once the initial site is set up and working, you don't have to touch the code again. Adding new resources or categories on the Google Sheet will automatically update the website. 
