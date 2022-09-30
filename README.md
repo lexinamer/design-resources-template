@@ -15,7 +15,7 @@ Setting up a site does require editing code but screenshots and step-by-step ins
 - Custom domain name (optional)
 
 ## Setting Up the Google Files
-**1** • Go to `File` and `Make a Copy` of the [Design Resources Template Google Sheet(https://docs.google.com/spreadsheets/d/1Omi_Ldrad5sl8Cb6f63MzrztJYZEEHuSaDw6r10FQH0/edit#gid=491768717)
+**1** • Go to `File` and `Make a Copy` of the [Design Resources Template Google Sheet](https://docs.google.com/spreadsheets/d/1Omi_Ldrad5sl8Cb6f63MzrztJYZEEHuSaDw6r10FQH0/edit#gid=491768717)
 
 <img src="https://raw.githubusercontent.com/lexinamer/design-resources-template/main/assets/instruction-screenshots/1-googlesheet.png" width="400px">
 
