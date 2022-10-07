@@ -78,7 +78,7 @@ In order to make your website work, you must edit some of the files and replace 
 
 <img src="https://raw.githubusercontent.com/lexinamer/design-resources-template/main/assets/instruction-screenshots/11-commit.png" width="400px">
 
-**5** • Repeat steps 1-3 for the `index.html` file on slides 5, 16, 18, and 29.
+**5** • Repeat steps 1, 2, and 4 on the `index.html` file editing lines 5, 16, 18, and 29.
 
 **6** • If using a custom domain name, repeat steps 1-3 for the `CNAME` file with your custom url (must purchase separately).
 
